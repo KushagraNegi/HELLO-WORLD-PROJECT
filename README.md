@@ -1,2 +1,3 @@
 # HELLO-WORLD-PROJECT
-This is my first Git Repository. Author -Kushagra Negi
+This is my first Git Repository. 
+Author -Kushagra Negi
